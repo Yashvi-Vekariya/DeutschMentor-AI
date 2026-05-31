@@ -1,0 +1,2 @@
+"""DeutschMentor AI backend."""
+
