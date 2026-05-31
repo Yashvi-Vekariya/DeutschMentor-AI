@@ -51,4 +51,6 @@ Create `backend/.env` from `backend/.env.example`. The app checks providers in t
 - Goethe A1 exam simulator
 - Long-term memory model and progress analytics
 - CI workflow, tests, deployment guide, diagrams, security notes
+- Fature :- https://deutsch-mentor-os.lovable.app/
+
 
